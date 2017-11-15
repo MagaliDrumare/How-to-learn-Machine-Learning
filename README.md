@@ -3,6 +3,7 @@
 ## What is Machine Learning ? 
 * What is Machine Learning?: https://youtu.be/HcqpanDadyQ
 * The 7 Steps of Machine Learning : https://youtu.be/nKW8Ndu7Mjw
+* Machine learning et Deep Learning, comment cela marche? : https://siecledigital.fr/2016/12/22/machine-learning-deep-learning-ca-marche/
 
 ## How to learn Machine Learning? 
 * Udemy Machine Learning A-Z: https://www.udemy.com/machinelearning/learn/v4/overview
